@@ -65,10 +65,10 @@ Follow the instructions in the paper (https://ieeexplore.ieee.org/abstract/docum
 
 This is the implementation of our paper MRRRec2022 IEEE big data
 
-##################################################################################################################################################
+#################################################
 Please note that our paper is the extension of ANR: Aspect-based Neural Recommender" in CIKM 2018. Therefore, we added code to their implementation (https://github.com/almightyGOSU/ANR/tree/master). The architecture that we extended, we DEVELOP THE CODE FOR THAT PART ONLY. The detailed architecture of our model can be found in the paper (https://ieeexplore.ieee.org/abstract/document/10020741). Thank you very much to the author of ANR for their nice work and open-source work!
 
-#######################################################################################################################
+####################################################
 
 Please consider citing our work if you find it useful. Thanks!
 '''
