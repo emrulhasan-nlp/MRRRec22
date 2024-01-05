@@ -1,19 +1,12 @@
 Hello!
-This is the implementation of our paper MRRRec2022 IEEE big data
 
-##################################################################################################################################################
-# Please note that our paper is the extension of ANR: Aspect-based Neural Recommender" in CIKM 2018. Therefore, we added code to their implementation (https://github.com/almightyGOSU/ANR/tree/master). The architecture that we extended, we DEVELOP THE CODE FOR THAT PART ONLY. The detailed architecture of our model can be found in the paper (https://ieeexplore.ieee.org/abstract/document/10020741). Thank you very much to the author of ANR for their nice work and open-source work!
-
-#######################################################################################################################
-
-
-# Implementation of our paper "MRRRec: Multi-criteria Rating and Review based Recommendation Model" in IEEE bigdata 2022.
+# This is the implementation of our paper "MRRRec: Multi-criteria Rating and Review based Recommendation Model" in IEEE bigdata 2022.
 
 The paper is available here: [Paper](https://ieeexplore.ieee.org/abstract/document/10020741)
 
 
 
-## Environment Setup
+Environment Setup
 
 1. Python 3.11.5
 2. PyTorch 2.1.2+cud121
@@ -70,9 +63,15 @@ dataset is available here: https://www.cs.virginia.edu/~hw5x/Data/LARA/TripAdvis
 Follow the instructions in the paper (https://ieeexplore.ieee.org/abstract/document/10020741) to clean the dataset.
 
 
+This is the implementation of our paper MRRRec2022 IEEE big data
 
-## Please consider citing our work if you find it useful. Thanks!
+##################################################################################################################################################
+Please note that our paper is the extension of ANR: Aspect-based Neural Recommender" in CIKM 2018. Therefore, we added code to their implementation (https://github.com/almightyGOSU/ANR/tree/master). The architecture that we extended, we DEVELOP THE CODE FOR THAT PART ONLY. The detailed architecture of our model can be found in the paper (https://ieeexplore.ieee.org/abstract/document/10020741). Thank you very much to the author of ANR for their nice work and open-source work!
 
+#######################################################################################################################
+
+Please consider citing our work if you find it useful. Thanks!
+'''
 @inproceedings{hasan2022multi,
   title={Multi-criteria Rating and Review based Recommendation Model},
   author={Hasan, Emrul and Ding, Chen and Cuzzocrea, Alfredo},
@@ -81,6 +80,6 @@ Follow the instructions in the paper (https://ieeexplore.ieee.org/abstract/docum
   year={2022},
   organization={IEEE}
 }
-
+'''
 
 
